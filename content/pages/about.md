@@ -4,10 +4,12 @@ template: "page"
 socialImage: "media/image-3.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+2017年後因為想要讓孩子在日本完成基礎教育，全家搬家到日本，目前任職於中軟國際。工作內容屬於派遣性質的，主要駐點都是在銀行業。
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](media/image-3.jpg)
+目前在樂天銀行。疫情的關係都在家上班。在家上班挑戰比較多，其中一項就是要鍛煉身體，就好象退役軍人每天都要鍛煉一樣，說不定哪一天又要恢復通勤，到時候體力可能會吃不消。
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+另外的挑戰就是和孩子接觸的時間變多了。自然而然產生很多要好好教育他們的想法。面對這種想法唯一的方法就是去實現它，心理才會覺得踏實。因此在摸索很多適合的方法。
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+另外的挑戰就是對於新經濟的探索。這個時代因為互聯網的幫助，即使隔離在家也完全沒有與世隔絕的感覺。在Ｂ乎上看到很多互聯網的新概念，令人躍躍欲試。
+
+當然碼農的本業還是最重要的主菜，其他都只是零食。希望目前服務的公司能夠越來越好。

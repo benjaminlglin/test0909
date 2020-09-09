@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://abc.zero21.biz',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Benjamin LG Lin',
+  subtitle: '記錄生活，創作，整理文檔，還有工作上遇到的技術課題。',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 10,
+  googleAnalyticsId: 'UA-8844492-1',
   useKatex: false,
   menu: [
     {
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Benjamin LG Lin',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '程序開發人員，業餘作家，愛學習讀書，不求甚解。',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'bg201307@gmail.com',
+      facebook: 'benjamin.lg.lin',
       telegram: '#',
-      twitter: '#',
+      twitter: 'ben200908',
       github: '#',
       rss: '',
       vkontakte: '',
       linkedin: '#',
-      instagram: '#',
+      instagram: 'bg201307',
       line: '',
       gitlab: '',
       weibo: '',
