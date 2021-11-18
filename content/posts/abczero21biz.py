@@ -3,16 +3,16 @@ import os
 import sys
 import datetime
 tp1='''---
-title: 在日本買車
-date: "`{0}T23:46:37.121Z"
+title: {0}東X米筆記
+date: "{0}T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "{1}"
-category: "生活経験"
+category: "每日學習記錄"
 tags:
-  - "車"
-  - "日本中国"
-description: "在日本買車的各種準備事項，保險等。"
+  - "工作記錄"
+  - "生活管理"
+description: "記錄當天的課題與解決，新發現，與新改善點"
 socialImage: "media/image-2.jpg"
 ---
 
@@ -44,7 +44,7 @@ os.mkdir(fn)
 print(fn)
 print(dt_now)
 args=sys.argv
-slug="a-article"
+slug="pleaseDecribe"
 if (len(args)==2):
     slug=args[1]
     print(slug)
