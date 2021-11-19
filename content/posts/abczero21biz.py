@@ -12,7 +12,7 @@ category: "每日學習記錄"
 tags:
   - "工作記錄"
   - "生活管理"
-description: "記錄當天的課題與解決，新發現，與新改善點"
+description: "在事上磨練。記錄當天的課題與解決，新發現，與新改善點"
 socialImage: "media/image-2.jpg"
 ---
 
