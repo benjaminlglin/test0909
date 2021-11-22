@@ -75,3 +75,9 @@ tagは作成しただけではリモートには反映されないのでpushし�
 # 今日照片
 ![](2021-11-19-18-09-17.png)
 
+# 常識を覆した
+
+[Improve Your Japanese Pronunciation](https://youglish.com/pronounce/%E8%A6%86%E3%81%97%E3%81%9F/japanese?)
+
+# 差し支えありません 問題ありません
+[Improve Your Japanese Pronunciation](https://youglish.com/pronounce/%E5%B7%AE%E3%81%97%E6%94%AF%E3%81%88%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93/japanese?)
