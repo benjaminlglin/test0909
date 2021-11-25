@@ -81,3 +81,8 @@ tagは作成しただけではリモートには反映されないのでpushし�
 
 # 差し支えありません 問題ありません
 [Improve Your Japanese Pronunciation](https://youglish.com/pronounce/%E5%B7%AE%E3%81%97%E6%94%AF%E3%81%88%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93/japanese?)
+# 重ね合わせて
+
+![](2021-11-19-23-11-02.png)
+
+[Improve Your Japanese Pronunciation](https://youglish.com/pronounce/%E9%87%8D%E3%81%AD%E5%90%88%E3%82%8F%E3%81%9B/japanese?)
