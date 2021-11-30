@@ -24,7 +24,11 @@ socialImage: "media/image-2.jpg"
 
 [[Git] remoteのtagとbranchの名前が同じ場合の消し方 - Qiita](https://qiita.com/koara-local/items/e36bc172a3c36eb67b4f)
 
+[git fetchとブランチ取り込み系コマンドを解説 - Qiita](https://qiita.com/matsumon-development/items/d3231acccc08c8d74c21)
+
 # very good tool
+[几个不错的录屏软件推荐](https://zhuanlan.zhihu.com/p/198090162)
+
 [Captura 8.0.0 / 9.0.0 Beta 4 Free Download - VideoHelp](https://www.videohelp.com/software/Captura)
 
 # 心得
