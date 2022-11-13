@@ -30,7 +30,7 @@ socialImage: "media/image-2.jpg"
 [大判ポスター出力/合成紙【2営業日後発送プラン】](https://www.ooban-senmon.com/?pid=152672166)
 
 
-
+[チラシ印刷](https://www.vistaprint.jp/?no_redirect=1&xnav=logo)
 
 # 小目標
 - 主日禱告操練
@@ -50,5 +50,5 @@ socialImage: "media/image-2.jpg"
 - 為了工作內容學習如何製作精美報告，主要是指畫流程圖上面。
 - 學習了基向量，特徵向量，和簡單的矩陣運算。線性變換。
 - 和同事開會覺得要達成一個大家都滿意度方案，挑戰很大。
-
+[コード で フローチャート シーケンス図 ガントチャート等 を 描く③ ～mermaidの図を出力する～ - Qiita](https://qiita.com/miriwo/items/223443768f545c39298c)
 ![alt](https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbiAgICBBW0hhcmQgZWRnZV0gLS0-fExpbmsgdGV4dHwgQihSb3VuZCBlZGdlKVxuICAgIEIgLS0-IEN7RGVjaXNpb259XG4gICAgQyAtLT58T25lfCBEW1Jlc3VsdCBvbmVdXG4gICAgQyAtLT58VHdvfCBFW1Jlc3VsdCB0d29dIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOnRydWV9)

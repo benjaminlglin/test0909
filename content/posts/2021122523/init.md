@@ -47,3 +47,8 @@ Future task2               :         des4, after des
 ```
 
 
+# 終於發現可以把網頁當作Excel來編輯的工具
+
+
+[Handsontable 使い方メモ１（基本） - Qiita](https://qiita.com/opengl-8080/items/ac19deec388c357cd498)
+當年第一次看到的時候驚為天人呀。

@@ -51,5 +51,13 @@ socialImage: "media/image-2.jpg"
 > 【英語】1分でわかる！「may well 」の意味・使い方・例文 ...https://study-z.net › 英語 › 英語の熟語まず、ひとつめの意味は「おそらくVだろう」です。Mayは「～だろう」wellは「十分に」という意味があるので、合わせると「十分にあり得るだろう」という ...
 [【英語】1分でわかる！「may well ○○」の意味・使い方・例文は？ドラゴン桜と学ぶ英語主要熟語 - Study-Z ドラゴン桜と学ぶWebマガジン](https://study-z.net/31672)
 
+# set out to (【熟語】～しようと試みる、～することを目指す 
+[Improve Your English Pronunciation](https://youglish.com/pronounce/set%20out%20to%20do/english?)
+![](2021-12-16-23-01-49.png)
+
+# endeavor 取り込み
+[Improve Your English Pronunciation](https://youglish.com/pronounce/endeavor/english?)
+
+
 
 

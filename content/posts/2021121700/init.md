@@ -34,3 +34,5 @@ socialImage: "media/image-2.jpg"
 ## votes cast by people ...
 [Improve Your English Pronunciation](https://youglish.com/pronounce/votes%20cast%20by/english?)
 
+![](2021-12-25-00-20-23.png)
+![](2021-12-25-00-39-10.png)
