@@ -13,8 +13,8 @@ $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
 
 // Typographic
-$typographic-font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Arial", "Yu Gothic", "Meiryo", sans-serif;
-
+//$typographic-font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Arial", "Yu Gothic", "Meiryo", sans-serif;
+$typographic-font-family: "Helvetica Neue", Helvetica, Arial, STHeitiTC-light, STHeiti, "Microsoft JhengHei", 微軟正黑體, sans-serif;
 $typographic-root-font-size: 100;
 $typographic-base-font-size: 16px;
 $typographic-small-font-size: 14px;
