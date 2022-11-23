@@ -1,0 +1,91 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="441px" height="161px" viewBox="-0.5 -0.5 441 161" content="&lt;mxfile&gt;&lt;diagram id=&quot;lRhZiREK0RVgC-0Q_ZC_&quot; name=&quot;ページ1&quot;&gt;1VZLt9ogEP41LtuTQIy69HXbTVf29LHEQBLOxZAiauyv75CQBybam1439Z6j8PExzHwzXGaC14fikyJ5+kVSJibIo8UEbyYIhYsZfBvgWgEBCisgUZxWkN8CO/6bWdCz6IlTdnSIWkqhee6CkcwyFmkHI0rJi0uLpXBPzUnCesAuIqKPfudUpxU6R7MW/8x4ktYn++GiWjmQmmwjOaaEyksHwtsJXispdTU6FGsmjHa1LtW+lzurjWOKZfotGwLrhr7WsTEKodppJjP4WaX6IGDmw5AVXP+Asfdxamc/zcyON0V3crWT6ghj966TFjrKk4osC9m8EpUwy8KNQFBYTB6YVlegKCaI5mfXOrEpThpeqwIMrBDDotijz0ScrNGeSkqeMsqoVeWScs12OSl9v0DJu6LdjffMlGZFB+oHV6/WBWNvjD+180tbfw0n7dRe6L1fDzygRyjggJUme1AEeXupKFPlWvjrZIp35bdDx81m3QPPpg6p4/cDVgTO5YRSniUONXBYba5q0LqwtCYhQ/a4FqnC+BBJIUh+hO3Ldrjqmg8T+1upoAYP3JPoNSkLxViUIM9ygvBytl4EkOlVB4vLT+OAcSkvyvsgIAcmrXgx38fIf+xGavIseJI5bggW6/6mr1yXmfPr3VAExsATTKLnm8QPTRpQvTUp71KY1si38i7cyEf/zkcj+fghf1Tgg9W4Xb6gDX6+LsHIOKcj+eHzdHlu4LORgcxH8hf/aUGY1m1UoP7Yq+U/vluD0hiwesJq/Oadh+dZu4/5USv5ytaVYkDBkWf+YCXmQnTw5p+6hGc+FmWXZyiAtN1D2x/1eoGBjuFue4DmN+1B0G8PGk63PfD/oT+AaduglmudLh9v/wA=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 60 10 L 153.89 37.38" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 158.93 38.85 L 151.23 40.25 L 153.89 37.38 L 153.19 33.53 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="10" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="160" y="0" width="280" height="160" fill="#ffffff" stroke="#c0c0c0" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 282px; height: 160px; padding-top: 0px; margin-left: 160px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 280px; height: 160px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <table border="1" width="100%" cellpadding="4" style="width: 100% ; height: 100% ; border-collapse: collapse">
+                                    <tbody>
+                                        <tr style="background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21">
+                                            <th align="left">
+                                                Title 1
+                                            </th>
+                                            <th align="left">
+                                                Title 2
+                                            </th>
+                                            <th align="left">
+                                                Title 3
+                                            </th>
+                                        </tr>
+                                        <tr style="border: 1px solid #98bf21">
+                                            <td>
+                                                Value 1
+                                            </td>
+                                            <td>
+                                                Value 2
+                                            </td>
+                                            <td>
+                                                Value 3
+                                            </td>
+                                        </tr>
+                                        <tr style="background-color: #eaf2d3 ; border: 1px solid #98bf21">
+                                            <td>
+                                                Value 4
+                                            </td>
+                                            <td>
+                                                Value 5
+                                            </td>
+                                            <td>
+                                                Value 6
+                                            </td>
+                                        </tr>
+                                        <tr style="border: 1px solid #98bf21">
+                                            <td>
+                                                Value 7
+                                            </td>
+                                            <td>
+                                                Value 8
+                                            </td>
+                                            <td>
+                                                Value 9
+                                            </td>
+                                        </tr>
+                                        <tr style="background-color: #eaf2d3 ; border: 1px solid #98bf21">
+                                            <td>
+                                                Value 10
+                                            </td>
+                                            <td>
+                                                Value 11
+                                            </td>
+                                            <td>
+                                                Value 12
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="160" y="12" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Title 1Title 2Title 3Value 1Value 2Value 3Value...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
