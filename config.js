@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://abc.zero21.biz',
+  url: 'https://itsblog.uk',
   pathPrefix: '/',
   title: 'Blog by Benjamin LG Lin',
   subtitle: '記錄生活，創作，整理文檔，還有工作上遇到的技術課題。',
