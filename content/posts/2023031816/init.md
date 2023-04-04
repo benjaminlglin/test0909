@@ -24,6 +24,12 @@ socialImage: "media/image-2.jpg"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OI-9bMJiejo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+# TODO管理/項目管理/專案管理
+
+打造自己專用的管理框架
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t66VlYR6Md0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # 接下來會陸續更新！
 
 
