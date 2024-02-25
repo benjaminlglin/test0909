@@ -49,10 +49,13 @@ socialImage: "media/image-2.jpg"
 ## 下列視頻列表會逐漸更新
 
 ### 中文翻譯日文
+
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/YMBxqEDxzJQ" title="【中翻日高手】你能完美翻譯這些句子嗎？一起來挑戰吧！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/ptD9tj2K5ZU" title="[20240210]有點難！中翻日練習，幫助你快速提高日語水平" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
- <iframe width="1280" height="720" src="https://www.youtube.com/embed/D0fTcjWhpUo" title="有點難！中翻日練習，幫助你快速提高日語水平" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/D0fTcjWhpUo" title="有點難！中翻日練習，幫助你快速提高日語水平" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 中文翻譯英語
 
